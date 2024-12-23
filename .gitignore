@@ -1,0 +1,4 @@
+virtual-env/
+etl_project_log.txt
+*.csv
+*.db
